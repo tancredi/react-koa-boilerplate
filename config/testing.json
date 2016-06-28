@@ -1,0 +1,6 @@
+{
+    "port"      : 1234,
+    "mongodb"   : {
+        "url" : "mongodb://localhost/ws2-test"
+    }
+}

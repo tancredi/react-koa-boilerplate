@@ -1,0 +1,17 @@
+# Node
+node_modules
+npm-debug.log
+
+# App
+config/production.json
+config/local.json
+
+# Build
+www/js/index.js
+www/css/styles.css
+www/*.html
+www/**.html
+www/***.html
+
+# OSX
+**.DS_Store
